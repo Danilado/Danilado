@@ -1,12 +1,12 @@
-# Hi there
+# Hi there 👋
 
-## Introduction
+## 🤗 &nbsp;Introduction
 
 My name is **Zvyagin Daniil**, I'm a first year student of [Bauman Moscow State Technical University](https://bmstu.ru/) Enrolled in the Faculty of IU - [Software Engineering](http://iu7.bmstu.ru/) program from Moscow, Russia. 
 
 **_I'm always open for new opportunities and interesting projects!_**
 
-## Studies 
+## 📝&nbsp;Studies 
 
 If you've opened this profile to find some solved tasks from IГ7 course, go ahead:
 * 👶 **First year**: 
