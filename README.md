@@ -31,7 +31,7 @@ If you've opened this profile to find some solved tasks from IГ7 course, go ahe
 ## 📱&nbsp; Contact me
 
 [<img align="left" alt="VK" width="48px" src="https://img.icons8.com/fluency/48/000000/vk-circled.png"/>][vk]
-[<img align="left" alt="TG" width="48px" src="https://img.icons8.com/color/48/000000/telegram-app--v1.png"/>][tg]
+[<img align="left" alt="TG" width="48px" src="https://img.icons8.com/color/48/000000/telegram-app--v3.png"/>][tg]
 [<img align="left" alt="DS" width="48px" src="https://img.icons8.com/fluency/48/000000/discord-new-logo.png"/>][ds]
 
 [vk]: https://vk.com/danilado
