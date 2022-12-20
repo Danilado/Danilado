@@ -8,7 +8,7 @@ My name is **Zvyagin Daniil**, I'm a first year student of [Bauman Moscow State 
 
 ## 📝&nbsp;Studies 
 
-If you've opened this profile to find some solved tasks from IГ7 course, go ahead:
+If you've opened this profile to find some solved tasks from IU7 course, go ahead:
 * 👶 **First year**: 
     - [Semester 1](https://github.com/Danilado/IU7-semester1)
     - Semester 2
