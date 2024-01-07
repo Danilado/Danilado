@@ -1,34 +1,55 @@
-# Hi there 👋
+# Привет
 
-## 🤗 &nbsp;Introduction
+## Введение
 
-My name is **Zvyagin Daniil**, I'm a first year student of [Bauman Moscow State Technical University](https://bmstu.ru/) Enrolled in the Faculty of IU - [Software Engineering](http://iu7.bmstu.ru/) program from Moscow, Russia. 
+Меня зовут **Даниил**, и я студет [МГТУ им. Н. Э. Баумана](https://bmstu.ru/) факультета ИУ кафедры [Программная инженерия](http://iu7.bmstu.ru/). 
 
-**_I'm always open for new opportunities and interesting projects!_**
+## Обучение
 
-## 📝&nbsp;Studies 
+Если вы наткнулись на этот профиль в поисках материалов или решённых заданий с курса ИУ7, то вот, держите
+(Поставьте звёздочку на репу или профиль, если что-то стырили, интересно, какой тут трафик)
 
-If you've opened this profile to find some solved tasks from IU7 course, go ahead:
-* 👶 **First year**: 
-    - [Semester 1](https://github.com/Danilado/IU7-semester1)
-    - Semester 2
-* 👦 **Second year**:
-    - Semester 3
-    - Semester 4
-* 👨 **Third year**:
-    - Semester 5
-    - Semester 6
-* 👴 **Fourth year**
-    - Semester 7
-    - Semester 8
+## Первый курс:
+    
+### Семестр 1:
+Вариант по списку - 7
+- [Программирование на языке Python](https://github.com/Danilado/IU7-Python)
+- [Проектно технологическая практика (Linux)](https://github.com/Danilado/IU7-Linux)
+- [Некоторые файлы по теории](https://github.com/Danilado/IU7-Theory)
 
-## 📊 &nbsp;Stats
+### Семестр 2:
+Вариант по списку - 8
+- [Программирование на языке C](https://github.com/Danilado/IU7-C)
+- [Проектно технологическая практика (Отладка и профилирование ПО)](https://github.com/Danilado/IU7-PTP)
+- [Некоторые файлы по теории](https://github.com/Danilado/IU7-Theory)
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=danilado&show_icons=true&theme=dracula)
-![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danilado&layout=compact&count_private=true&langs_count=10&card_width=445&theme=dracula)
-![My GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=danilado&show_icons=true&theme=dracula)
+## Второй курс: 
 
-## 📱&nbsp; Contact me
+### Семестр 3:
+Вариант по списку - 8
+
+- [Программирование на языке C](https://github.com/Danilado/IU7-C)
+- [Типы и структуры данных](https://github.com/Danilado/TADS)
+
+### Семестр 4:
+
+## Третий курс:
+
+### Семестр 5:
+### Семестр 6:
+
+## Четвёртый курс:
+
+### Семестр 7:
+### Семестр 8:
+
+## Позорная статистика!
+
+![Статистика гитхаба](https://github-readme-stats.vercel.app/api?username=danilado&show_icons=true&theme=dracula)
+![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=danilado&layout=compact&count_private=true&langs_count=10&card_width=445&theme=dracula)
+![Нулевой стрик!](https://github-readme-streak-stats.herokuapp.com/?user=danilado&show_icons=true&theme=dracula)
+
+## Контакты
 
 [<img align="left" alt="VK" width="48px" src="https://img.icons8.com/fluency/48/000000/vk-circled.png"/>][vk]
 [<img align="left" alt="TG" width="48px" src="https://img.icons8.com/color/48/000000/telegram-app--v3.png"/>][tg]
