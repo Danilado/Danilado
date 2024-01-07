@@ -29,7 +29,7 @@
 Вариант по списку - 8
 
 - [Программирование на языке C](https://github.com/Danilado/IU7-C)
-- [Типы и структуры данных](https://github.com/Danilado/TADS)
+- [Типы и структуры данных](https://github.com/Danilado/IU7-TADS)
 
 ### Семестр 4:
 
