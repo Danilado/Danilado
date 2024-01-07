@@ -15,13 +15,11 @@
 Вариант по списку - 7
 - [Программирование на языке Python](https://github.com/Danilado/IU7-Python)
 - [Проектно технологическая практика (Linux)](https://github.com/Danilado/IU7-Linux)
-- [Некоторые файлы по теории](https://github.com/Danilado/IU7-Theory)
 
 ### Семестр 2:
 Вариант по списку - 8
 - [Программирование на языке C](https://github.com/Danilado/IU7-C)
 - [Проектно технологическая практика (Отладка и профилирование ПО)](https://github.com/Danilado/IU7-PTP)
-- [Некоторые файлы по теории](https://github.com/Danilado/IU7-Theory)
 
 ## Второй курс: 
 
