@@ -34,7 +34,7 @@
 - [ООП](https://github.com/Danilado/IU7-OOP)
 - [Компьютерная Графика](https://github.com/Danilado/IU7-CG)
 - [Вычислительные алгоритмы](https://github.com/Danilado/IU7-CA)
-- [МЗЯП]() // пока не заливал
+- [МЗЯП](https://github.com/Danilado/IU7-ASM)
 
 ## Третий курс:
 
